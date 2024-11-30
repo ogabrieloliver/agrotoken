@@ -1,2 +1,2 @@
 # agrotoken
-AgroToken é uma plataforma blockchain que garante a transparência e rastreabilidade de produtos agrícolas desde a origem até o consumidor final. Utilizando contratos inteligentes.
+O AgroToken visa revolucionar o setor agrícola, utilizando a tecnologia blockchain para transformar estoques de commodities agrícolas em ativos digitais (tokens). Esses tokens podem ser utilizados como garantia para obter crédito, democratizando o acesso ao financiamento e otimizando processos.
